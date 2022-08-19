@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617164051 source:c:\users\lizhe\desktop\csc7700\project\csc7700project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+
